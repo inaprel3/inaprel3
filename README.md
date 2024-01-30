@@ -1,5 +1,6 @@
 ## I'm a computer science researcher and student
 
-![Anastasiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=inaprel3&theme=light&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inaprel3&layout=compact)](https://github.com/inaprel3/github-readme-stats)
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=inaprel3&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=inaprel3&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/inaprel3/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaprel3&layout=compact"/></a>
+</p>
