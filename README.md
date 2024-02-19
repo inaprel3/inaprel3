@@ -1,12 +1,12 @@
 ## I'm a computer science researcher and student
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/inaprel3?tab=repositories">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaprel3&layout=compact&theme=dark&hide_border=true"
     />
-  </a>
+  </a>-->
   <a href="https://github.com/inaprel3?tab=repositories">
     <img
       align="center"
