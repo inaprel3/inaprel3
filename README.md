@@ -1,4 +1,4 @@
-<!--## I'm a computer science researcher and student-->
+## Computer science
 
 <p align="center">
   <a href="https://github.com/inaprel3?tab=repositories">
